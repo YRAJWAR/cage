@@ -1,0 +1,6 @@
+# Heavy model artifacts and training outputs, tracked with Git LFS
+model/yolomodel/weights/*.pt filter=lfs diff=lfs merge=lfs -text
+model/yolomodel/train/*.jpg filter=lfs diff=lfs merge=lfs -text
+model/yolomodel/train/*.png filter=lfs diff=lfs merge=lfs -text
+finetune/trained-adapters/tokenizer.json filter=lfs diff=lfs merge=lfs -text
+paper/paper.pdf filter=lfs diff=lfs merge=lfs -text
