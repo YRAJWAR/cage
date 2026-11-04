@@ -8,7 +8,10 @@
 [![SAM 3.1](https://img.shields.io/badge/SAM%203.1-Meta-0467DF?logo=meta&logoColor=white)](https://ai.meta.com/sam3/)
 [![Llama 4](https://img.shields.io/badge/Llama%204-Meta%20Model%20API-0467DF?logo=meta&logoColor=white)](https://api.meta.ai)
 [![pytest](https://img.shields.io/badge/Tests-pytest-0A9EDC?logo=pytest&logoColor=white)](https://docs.pytest.org)
+<html>
 
+<a href="https://deepwiki.com/moah0911/cage"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki"></a>
+</html>
 ML-powered end-of-day safety reporting for construction sites. POV
 body-worn footage and fixed wall cameras feed one pipeline that flags PPE
 violations, posture/ergonomic risk, and OSHA hazards, then produces a
