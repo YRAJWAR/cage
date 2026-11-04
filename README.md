@@ -1,5 +1,14 @@
 # CAGE — Construction Site Safety Intelligence
 
+[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)](https://python.org)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)](https://nextjs.org)
+[![Bun](https://img.shields.io/badge/Bun-000000?logo=bun&logoColor=white)](https://bun.sh)
+[![YOLO](https://img.shields.io/badge/YOLO-Ultralytics-00FFFF?logo=ultralytics&logoColor=black)](https://ultralytics.com)
+[![SAM 3.1](https://img.shields.io/badge/SAM%203.1-Meta-0467DF?logo=meta&logoColor=white)](https://ai.meta.com/sam3/)
+[![Llama 4](https://img.shields.io/badge/Llama%204-Meta%20Model%20API-0467DF?logo=meta&logoColor=white)](https://api.meta.ai)
+[![pytest](https://img.shields.io/badge/Tests-pytest-0A9EDC?logo=pytest&logoColor=white)](https://docs.pytest.org)
+
 ML-powered end-of-day safety reporting for construction sites. POV
 body-worn footage and fixed wall cameras feed one pipeline that flags PPE
 violations, posture/ergonomic risk, and OSHA hazards, then produces a
